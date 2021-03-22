@@ -15,4 +15,16 @@ Soy tecnologo en desarrollo de software, con casi 3 años de experiencia en:
 * Manejo de Photoshop
 * Manejo de Illustrator
 
+Algunos de mis trabajos como desarrollador de paginas web para Colombia!
+https://www.districablesisp.com/
+https://pandorasoluciones.com.co/
+https://www.global-sas.com/
+https://woorange.com/
+http://www.servisysten.com/
+
+Pagina web realizada para cliente en Estados unidos!
+https://dirtyductdoc.net/
+
 Tambien me encuentro realizando mi carrera profesional como ingeniero de sistemas en la universidad del Quindio
+
+
