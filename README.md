@@ -21,9 +21,13 @@ https://pandorasoluciones.com.co/
 https://www.global-sas.com/
 https://woorange.com/
 http://www.servisysten.com/
+http://serlatina.com/
 
 Pagina web realizada para cliente en Estados unidos!
 https://dirtyductdoc.net/
+
+Pagina web realizada para cliente en Chile!
+http://disoft-la.com/
 
 Tambien me encuentro realizando mi carrera profesional como ingeniero de sistemas en la universidad del Quindio
 
