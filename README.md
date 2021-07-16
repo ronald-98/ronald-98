@@ -1,6 +1,6 @@
 - 👋 Hola soy Ronald montoya
 
-Soy tecnologo en desarrollo de software, con casi 3 años de experiencia en:
+Soy tecnologo en desarrollo de software, con 3 años de experiencia en:
 
 * Desarrollo de software
 * Administracion de servidores en linux y windows
