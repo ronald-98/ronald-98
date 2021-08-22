@@ -1,21 +1,23 @@
-- 👋 Hola soy Ronald montoya
+- 👋 Hola soy Ronald Montoya
 
-Soy tecnologo en desarrollo de software, con 3 años de experiencia en:
+Soy Web master con 3 años de experiencia en:
 
 * Desarrollo de software
-* Administracion de servidores en linux y windows
+* Desarrollador de páginas web
+* Desarrollador de tiendas virtuales
+* Alto manejo de wordpress y woocomerce 
+* Administración de servidores en Linux y Windows
 * Manejo de bases de datos (Oracle, SQL Server, MySQL)
-* Diseño y desarrollo de paginas web
 * Conocimiento en PHP
-* Html 5
+* HTML 5
 * Css 3
-* Diseño, desarrollo y adminitracion de paginas web en wordpress
-* Administracion de hosting
+* Diseño y administración de páginas web en wordpress
+* Administración de hosting
 * Manejo de herramientas Office
 * Manejo de Photoshop
 * Manejo de Illustrator
 
-Algunos de mis trabajos como desarrollador de paginas web para Colombia!
+¡Algunos de mis trabajos como desarrollador de páginas web para Colombia!
 https://www.districablesisp.com/
 https://pandorasoluciones.com.co/
 https://www.global-sas.com/
@@ -23,12 +25,10 @@ https://woorange.com/
 http://www.servisysten.com/
 http://serlatina.com/
 
-Pagina web realizada para cliente en Estados unidos!
+¡Página web realizada para cliente en Estados unidos!
 https://dirtyductdoc.net/
 
-Pagina web realizada para cliente en Chile!
+¡Página web realizada para cliente en Chile!
 http://disoft-la.com/
-
-Tambien me encuentro realizando mi carrera profesional como ingeniero de sistemas en la universidad del Quindio
 
 
